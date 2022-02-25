@@ -1,4 +1,12 @@
-### Hi there 👋
+## hello wolrd :) 
+
+My nickname is MelodiesK
+
+I make this page for practice
+
+Have a happy day :)
+
+![](https://blogfiles.pstatic.net/MjAyMjAyMjVfMjc5/MDAxNjQ1NzU0Mjg4NjE2.TyqKTkymKbs_ItLBVSSTjhwaIRM5ZexQ9h6hHN9th3Ig.qiDHQKcqEeGE5VXzCXNQwv1GKNLNtYCNcN65UtbWdkwg.GIF.tjdcjf9603/1564458976.gif?type=w2)
 
 <!--
 **MelodiesK/MelodiesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
